@@ -8,6 +8,7 @@ namespace FitnessClinic.Controllers
 {
     public class DietController : Controller
     {
+
         public IActionResult Index()
         {
             return View();
